@@ -130,12 +130,12 @@ h1::first-letter {
     margin: 339px 0 0 405px;
 }
 
-.video__img {
+.work__img {
     width: 100%;
     height: 100%;
 }
 
-.video__play {
+.work__play {
     position: absolute;
     top: 50%;
     left: 50%;
