@@ -3,6 +3,7 @@
     font-family: Roboto, sans-serif;
     background-color: #EEEFF1;
     position: relative;
+    margin: 0 auto;
 }
 
 .header {
@@ -28,6 +29,7 @@
 .nav__item {
     text-transform: uppercase;
     margin-right: 42px;
+    font-weight: 500;
 }
 
 .nav__item--selected {
@@ -87,7 +89,7 @@ h1::first-letter {
     background-color: inherit;
 }
 
-.section___header {
+.section__header {
     width: 403px;
     margin-left: 758px;
     margin-top: 112px;
@@ -97,7 +99,7 @@ h1::first-letter {
 }
 
 
-.section___header:first-letter {
+.section__header:first-letter {
     text-transform: capitalize;
 }
 
@@ -128,12 +130,12 @@ h1::first-letter {
     margin: 339px 0 0 405px;
 }
 
-.video__img--main {
+.video__img {
     width: 100%;
     height: 100%;
 }
 
-.video__img--play {
+.video__play {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -157,7 +159,7 @@ h1::first-letter {
     font-weight: 500;
 }
 
-.footer_text {
+.footer__text {
     position: absolute;
     margin-left: 406px;
     margin-top: 89px;
